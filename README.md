@@ -18,4 +18,7 @@ To learn how to structure a website using HTML
 ## Project Timeline
 
 6/11/2022 17:00 - Succufully installed Git and got it set up
+
 6/11/2022 17:01 - Started Project
+
+6/11/2022 17:21 - Added Recipes
