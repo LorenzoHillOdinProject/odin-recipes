@@ -22,3 +22,5 @@ To learn how to structure a website using HTML
 6/11/2022 17:01 - Started Project
 
 6/11/2022 17:21 - Added Recipes
+
+6/11/2022 23:57 - Added Images and Pages. Completed Steak Page
